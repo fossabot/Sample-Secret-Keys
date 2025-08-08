@@ -1,8 +1,9 @@
-
 This is a project full of sample secret keys which was made for testing SAST secret scanning tools. 
 
 
 # Secret Keys
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsecrets-cyber-demo-ortam%2FSample-Secret-Keys.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsecrets-cyber-demo-ortam%2FSample-Secret-Keys?ref=badge_shield)
+
 Filename                                           | Description
 ------------------------------------------------|--------------------------------------------------------------------------
 .npmrc                                          | NPM registry authentication data
@@ -53,3 +54,7 @@ PII/Credit cards.txt                            | Visa/ MAsterCard/ American exp
 DataDog-keys.txt                                | .env, YAML, Docker env, JavaScript (Winston logger), .tf provider block, Ruby (Capistrano)
 JWT                                             | Atlassian JSON Web Token
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsecrets-cyber-demo-ortam%2FSample-Secret-Keys.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsecrets-cyber-demo-ortam%2FSample-Secret-Keys?ref=badge_large)
